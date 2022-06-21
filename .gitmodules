@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "datagovindia"]
+	path = datagovindia
+	url = https://github.com/econabhishek/datagovindia
+	shallow = true
+	registered = true
